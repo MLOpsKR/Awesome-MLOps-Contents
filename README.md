@@ -14,6 +14,7 @@
 ## Contents
 - [Basic](#basic)
 - [Serving](#serving)
+- [Feature Store](#feature-store)
 - [Experiment](#experiment)
 - [AutoML](#automl)
 - [Data Validation](#data-validation)
@@ -24,6 +25,9 @@
 
 
 ### Basic
+- [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)(Eng)
+	- MLOps와 DevOps의 차이에 대해 잘 작성된 글
+- [Move Fast and Break Things? The AI Governance Dilemma](https://hackernoon.com/move-fast-and-break-things-the-ai-governance-dilemma-dsq32ix)(Eng)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)(Eng)
 	- 구글의 머신러닝 엔지니어링 가이드 글로, 모델을 적용하는 과정에 대해 잘 나와있음
 	- 번역 글 : [Rules of Machine Learning: Best Practices for ML Engineering 정리](https://zzsza.github.io/data/2019/12/15/rules-of-ml/)(Kor)
@@ -44,13 +48,24 @@
 ](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)(Eng)
 
 
+
 	
 ### Serving
 - TBU(너무 많아서 추후에 더 올릴 예정입니다)
 - [TF Serving -Auto Wrap your TF or Keras model & Deploy it with a production-grade GRPC Interface](https://towardsdatascience.com/using-tensorflow-serving-grpc-38a722451064)(Eng)
 
 
-
+### Feature Store
+- [Feature Stores for ML](http://featurestore.org/)(Eng)
+	- 각종 Feature Store를 비교하고, 관련 영상이 존재
+- Feature Store에 대한 설명 글
+	- [Feature Stores: Components of a Data Science Factory](https://towardsdatascience.com/feature-stores-components-of-a-data-science-factory-f0f1f73d39b8)(Eng)
+	- [Rethinking Feature Stores](https://medium.com/@changshe/rethinking-feature-stores-74963c2596f0)(Eng)
+- Feature Store 라이브러리
+	- Logicalclocks의 [Hopsworks](https://github.com/logicalclocks/hopsworks)
+)
+	- Gojek의 [feast](https://github.com/gojek/feast)
+		- [introducing feast an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)(Eng)
 
 ### Experiment
 - [머신러닝 실험을 도와줄 Python Sacred 소개 ](https://zzsza.github.io/mlops/2019/07/21/python-sacred/)(Kor)
