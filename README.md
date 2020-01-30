@@ -44,9 +44,8 @@
 	- Full Stack Deep Learning Bootcamp을 기반으로 추가적인 자료를 모아둔 Repo
 - [Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/)(Eng)
 	- UC Berkeley 수업 자료로 동영상은 없지만 자료만 봐도 유익
-- [Machine Learning Systems Design
-](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)(Eng)
-
+- [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)(Eng)
+- [MLOps Done Right](https://towardsdatascience.com/mlops-done-right-47cec1dbfc8d)(Eng)
 
 
 	
