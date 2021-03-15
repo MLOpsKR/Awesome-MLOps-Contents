@@ -25,6 +25,7 @@
 
 
 ### Basic
+- Mercari의 [머신러닝 시스템 디자인 패턴(번역본)](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 - [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)(Eng)
 	- MLOps와 DevOps의 차이에 대해 잘 작성된 글
 - [Move Fast and Break Things? The AI Governance Dilemma](https://hackernoon.com/move-fast-and-break-things-the-ai-governance-dilemma-dsq32ix)(Eng)
@@ -46,8 +47,7 @@
 	- UC Berkeley 수업 자료로 동영상은 없지만 자료만 봐도 유익
 - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)(Eng)
 - [MLOps Done Right](https://towardsdatascience.com/mlops-done-right-47cec1dbfc8d)(Eng)
-
-
+- [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html) : 스탠포드에서 만든 자료로 동영상은 거의 없지만 발표 자료만 봐도 유익함
 	
 ### Serving
 - TBU(너무 많아서 추후에 더 올릴 예정입니다)
